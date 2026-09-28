@@ -17,7 +17,7 @@ Reported metrics:
     - conditional agreement rate among visited states;
     - visited ratio;
     - average cumulative reward and rollout Monte Carlo standard error;
-    - exact true value and optimal action.
+    - exact true value and optimal action(s).
 
 With POLICY_REPLICATIONS = 1, policy_reward_se is conditional on the single
 initial AMS tree and the cached on-the-fly policy expansions.
