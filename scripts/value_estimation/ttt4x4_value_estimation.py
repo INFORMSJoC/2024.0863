@@ -32,10 +32,10 @@ Main settings:
     - 500 independent replications for each estimator and sample size.
 
 Output:
-    results/ttt4x4_random_value_summary.csv
+    results/value_estimation/ttt4x4.csv
 
 Run:
-    python scripts/ttt4x4_value.py
+    python scripts/value_estimation/ttt4x4_value_estimation.py
 """
 
 import csv

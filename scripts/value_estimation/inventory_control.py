@@ -28,10 +28,10 @@ values are transformed back to the original cost scale before computing bias,
 standard deviation, and MSE.
 
 Output:
-    results/inventory_value_normalized.csv
+    results/value_estimation/inventory_control.csv
 
 Run:
-    python scripts/inventory_control.py
+    python scripts/value_estimation/inventory_control.py
 """
 
 import csv

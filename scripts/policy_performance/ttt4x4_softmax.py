@@ -26,10 +26,10 @@ With POLICY_REPLICATIONS = 1, policy_reward_se is conditional on the single
 initial AMS tree and the cached on-the-fly policy expansions.
 
 Output:
-    results/ttt4x4_softmax_policy_summary.csv
+    results/policy_performance/ttt4x4_softmax.csv
 
 Run:
-    python scripts/ttt4x4_softmax_policy.py
+    python scripts/policy_performance/ttt4x4_softmax.py
 """
 
 import csv

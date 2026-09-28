@@ -19,10 +19,10 @@ Main settings:
     - 500 independent replications for each estimator and sample size.
 
 Output:
-    results/ttt3x3_value_summary.csv
+    results/value_estimation/ttt3x3.csv
 
 Run:
-    python scripts/ttt3x3_value.py
+    python scripts/value_estimation/ttt3x3_value_estimation.py
 """
 
 import csv

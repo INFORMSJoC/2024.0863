@@ -25,10 +25,10 @@ Implementation notes:
     - EA is a static equal-allocation benchmark.
     
 Output:
-    results/intruder_value_metrics.csv
+    results/value_estimation/intruder_monitor.csv
 
 Run:
-    python scripts/intruder_monitor.py
+    python scripts/value_estimation/intruder_monitor.py
 """
 
 import csv
