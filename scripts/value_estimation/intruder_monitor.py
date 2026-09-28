@@ -16,7 +16,7 @@ Main settings:
     - the same replication seeds are used across estimators for each setting
       and sample size;
     - settings 'a' and 'b': main experiments in Section 5.1;
-    - settings 'c' to 'f': robustness checks in Appendix G.1;
+    - settings 'c' to 'f': robustness checks;
     - settings 'a' to 'd' use 3x3 grids; settings 'e' and 'f' use 4x4 grids.
 
 Implementation notes:

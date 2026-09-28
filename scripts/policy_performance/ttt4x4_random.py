@@ -16,7 +16,7 @@ Reported metrics:
     - overall agreement rate with the exact optimal action set;
     - conditional agreement rate among visited states;
     - visited ratio;
-    - average cumulative reward and rollout Monte Carlo standard error;
+    - average cumulative reward and rollout standard error;
     - exact true value and optimal action(s).
 
 With POLICY_REPLICATIONS = 1, policy_reward_se is conditional on the single
