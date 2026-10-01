@@ -1,18 +1,22 @@
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
 # Solving Markov Decision Processes via Largest-size Average Estimator
 
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
 This repository contains the code and numerical results for the paper
-"Solving Markov Decision Processes via Largest-size Average Estimator"
-by Peiwen Yu, Qidong Lai, Yuan Tian, and Guangwu Liu, accepted for
-publication in *INFORMS Journal on Computing*.
+[Solving Markov Decision Processes via Largest-size Average Estimator](https://doi.org/10.1287/ijoc.2024.0863)
+by Peiwen Yu, Qidong Lai, Yuan Tian, and Guangwu Liu.
 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and
 this repo, using their respective DOIs.
 
-[https://doi.org/10.1287/ijoc.2024.0863](https://doi.org/10.1287/ijoc.2024.0863)
+https://doi.org/10.1287/ijoc.2024.0863
 
-[https://doi.org/10.1287/ijoc.2024.0863.cd](https://doi.org/10.1287/ijoc.2024.0863.cd)
+https://doi.org/10.1287/ijoc.2024.0863.cd
 
 Below is the BibTeX for citing this snapshot of the repository.
 
@@ -27,8 +31,6 @@ Below is the BibTeX for citing this snapshot of the repository.
   note =          {Available for download at https://github.com/INFORMSJoC/2024.0863},
 }
 ```
-
-
 
 ## Repository structure
 
